@@ -1,7 +1,7 @@
 # MEAIE
 
-Visit the official MEAIE Important Information site:  
-[Cilick Here To Visit MEAIE Informatios Page](https://maie.example.com)
+Visit the official MEAIE Important Informations Site:  
+[Cilick Here To Visit MEAIE Informatios Site](https://maie.example.com)
 
 ---
 
